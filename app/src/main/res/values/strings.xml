@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TwoWaysApp</string>
+  <string name="ping_text">Ping</string>
+  <string name="pong_text">Pong</string>
+</resources>
